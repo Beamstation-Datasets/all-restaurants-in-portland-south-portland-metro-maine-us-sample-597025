@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eef03f74-a19a-4052-9e53-9ddf47e4a4ad",
+  "export_job_id": "671e7880-a32f-4faa-b965-72e35202aecd",
   "id_short": 597025,
-  "published_at": "2026-04-18T19:29:40Z",
+  "published_at": "2026-04-22T07:43:15Z",
   "repo_name": "all-restaurants-in-portland-south-portland-metro-maine-us-sample-597025",
   "sample_asset_name": "beamstation_597025_restaurants-us-portlandsouthportlandme_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/597025/beamstation_597025_restaurants-us-portlandsouthportlandme_SAMPLE_DIST.csv",
-  "sample_records": 166,
-  "sample_sha256": "a8e1a99bc17b487c91eb67344471e632f288b546dc924a98cab4727130c3f5ad",
-  "sample_size_bytes": 569404,
-  "total_records": 1661
+  "sample_records": 128,
+  "sample_sha256": "7c177077631c6ffdd38e6a2dcb48e69e02585bfdc71b03c488f6bc60e270575e",
+  "sample_size_bytes": 457844,
+  "total_records": 1289
 }
